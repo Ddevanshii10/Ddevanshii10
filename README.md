@@ -33,5 +33,5 @@ Passionate B.Tech Computer Science graduate specializing in building scalable da
 
 ## 🌐 Connect & Engage
 
-* **LinkedIn:** [linkedin.com/in/devanshi-joshi]([https://linkedin.com](https://www.linkedin.com/in/devanshii10/)) *(Update with your direct URL)*
+* **LinkedIn:** [[linkedin.com/in/devanshi-joshi](https://www.linkedin.com/in/devanshii10/)]([https://linkedin.com](https://www.linkedin.com/in/devanshii10/))
 * **Portfolio / GitHub:** [github.com/Ddevanshii10](https://github.com/Ddevanshii10)
