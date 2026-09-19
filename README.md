@@ -20,11 +20,11 @@ Passionate B.Tech Computer Science graduate specializing in building scalable da
 
 ## 🚀 Featured Projects
 
-* **[Customer 360 Data Platform]((https://github.com/Ddevanshii10/Customer360Analysis))**
+* **[Customer 360 Data Platform](https://github.com/Ddevanshii10/Customer360Analysis)**
   * Enterprise end-to-end data processing platform utilizing **Azure Data Factory**, **Databricks**, **PySpark**, and **Power BI** to generate unified customer analytics profiles.
-* **[Log Guardian AI]((https://github.com/Ddevanshii10/Log-Guardian-AI---Data-Engieering-and-Data-Analytics-Project))**
+* **[Log Guardian AI](https://github.com/Ddevanshii10/Log-Guardian-AI---Data-Engieering-and-Data-Analytics-Project)**
   * Real-time streaming log anomaly detection system powered by **Apache Kafka**, **PySpark Structured Streaming**, **Delta Lake**, and **Spark ML**.
-* **[Azure Data Factory ETL Framework]((https://github.com/Ddevanshii10/Azure-Data-Factory-ETL-Framework))**
+* **[Azure Data Factory ETL Framework](https://github.com/Ddevanshii10/Azure-Data-Factory-ETL-Framework)**
   * Metadata-driven, parameterized pipeline orchestrations utilizing **ADLS Gen2**, **Mapping Data Flows**, and dynamic pipeline configurations for scalable data ingestion.
 * **[Tableau Salesforce Pipeline Risk Analysis](https://github.com/Ddevanshii10/Tableau-Hackathon-Salesforce-Pipeline-Risk-Analysis)**
   * Interactive Tableau analytics dashboard identifying sales pipeline bottlenecks, deal slippage, and revenue risks from Salesforce data models.
